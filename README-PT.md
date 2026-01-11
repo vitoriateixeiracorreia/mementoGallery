@@ -1,6 +1,6 @@
 # Nota
 
-Este README também está disponível em [Inglês](README.md).
+This readme is also available in [English](README.md).
 
 Project made by:
 [Guilherme Soares](https://github.com/guimbreon) && [Vitória Correia](https://github.com/vitoriateixeiracorreia)
